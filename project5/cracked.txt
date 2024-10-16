@@ -8,7 +8,7 @@ scattle:mustang
 apenguinlead:purple  
 chiricsen:rangers  
 shortoeve:tigger  
-chilledmiracle:thunder  
+chilledmiracle:thunder 
 tacticreport:aaaaaa  
 aimetrans:dragon  
 akumillne:yamaha  
@@ -30,4 +30,4 @@ sanbenect:letmein
 tiltheb:1q2w3e           
 ancyprol:agath3  
 cutezee:cor3y1
-hipurcedree:contre-dance144
+ravagergyps:gandalf
